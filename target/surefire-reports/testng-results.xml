@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="SauceDemoEcommerceSuite" duration-ms="16321" started-at="2022-06-20T13:39:40 IST" finished-at="2022-06-20T13:39:57 IST">
+    <groups>
+    </groups>
+    <test name="SauceDemoEcommerceTest" duration-ms="16321" started-at="2022-06-20T13:39:40 IST" finished-at="2022-06-20T13:39:57 IST">
+      <class name="com.SauceDemo.testCases.OrderCompletePageTest">
+        <test-method status="PASS" signature="initialization()[pri:0, instance:com.SauceDemo.testCases.OrderCompletePageTest@3a5ed7a6]" name="initialization" is-config="true" duration-ms="2683" started-at="2022-06-20T13:39:40 IST" finished-at="2022-06-20T13:39:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialization -->
+        <test-method status="PASS" signature="validateOrderCompletePageURLTest()[pri:1, instance:com.SauceDemo.testCases.OrderCompletePageTest@3a5ed7a6]" name="validateOrderCompletePageURLTest" duration-ms="2513" started-at="2022-06-20T13:39:43 IST" finished-at="2022-06-20T13:39:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateOrderCompletePageURLTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.SauceDemo.testCases.OrderCompletePageTest@3a5ed7a6]" name="tearDown" is-config="true" duration-ms="744" started-at="2022-06-20T13:39:46 IST" finished-at="2022-06-20T13:39:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="initialization()[pri:0, instance:com.SauceDemo.testCases.OrderCompletePageTest@3a5ed7a6]" name="initialization" is-config="true" duration-ms="2686" started-at="2022-06-20T13:39:46 IST" finished-at="2022-06-20T13:39:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialization -->
+        <test-method status="PASS" signature="validateOrderCompletePageTextTest()[pri:2, instance:com.SauceDemo.testCases.OrderCompletePageTest@3a5ed7a6]" name="validateOrderCompletePageTextTest" duration-ms="1815" started-at="2022-06-20T13:39:49 IST" finished-at="2022-06-20T13:39:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateOrderCompletePageTextTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.SauceDemo.testCases.OrderCompletePageTest@3a5ed7a6]" name="tearDown" is-config="true" duration-ms="732" started-at="2022-06-20T13:39:51 IST" finished-at="2022-06-20T13:39:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="initialization()[pri:0, instance:com.SauceDemo.testCases.OrderCompletePageTest@3a5ed7a6]" name="initialization" is-config="true" duration-ms="2260" started-at="2022-06-20T13:39:52 IST" finished-at="2022-06-20T13:39:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialization -->
+        <test-method status="PASS" signature="clickOnBackHomeBtnTest()[pri:3, instance:com.SauceDemo.testCases.OrderCompletePageTest@3a5ed7a6]" name="clickOnBackHomeBtnTest" duration-ms="1973" started-at="2022-06-20T13:39:54 IST" finished-at="2022-06-20T13:39:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnBackHomeBtnTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.SauceDemo.testCases.OrderCompletePageTest@3a5ed7a6]" name="tearDown" is-config="true" duration-ms="762" started-at="2022-06-20T13:39:56 IST" finished-at="2022-06-20T13:39:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.SauceDemo.testCases.OrderCompletePageTest -->
+    </test> <!-- SauceDemoEcommerceTest -->
+  </suite> <!-- SauceDemoEcommerceSuite -->
+</testng-results>

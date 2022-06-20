@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="SauceDemoEcommerceSuite">
+
+	<listeners>
+		<listener class-name="com.SauceDemo.utilities.Reporting" />
+	</listeners>
+
+	<test name="SauceDemoEcommerceTest">
+		<classes>
+			<!-- <class name="com.SauceDemo.testCases.ProductsPageTest"/> -->
+			<!-- <class name="com.SauceDemo.testCases.HomePageTest"/> -->
+			<class name="com.SauceDemo.testCases.OrderCompletePageTest" />  
+			<!-- <class name="com.SauceDemo.testCases.AddToCartPageTest"/> -->
+		    <!-- <class name="com.SauceDemo.testCases.CheckoutPageTest"/>  -->
+			<!-- <class name="com.SauceDemo.testCases.BaseClass"/> -->
+		</classes>
+	</test>
+</suite> 

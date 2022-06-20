@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [SauceDemoEcommerceSuite]">
+  <listeners>
+    <listener class-name="com.SauceDemo.utilities.Reporting"/>
+  </listeners>
+  <test name="SauceDemoEcommerceTest(failed)">
+    <classes>
+      <class name="com.SauceDemo.testCases.CheckoutPageTest">
+        <methods>
+          <include name="validateCheckoutPageURLTest"/>
+          <include name="initialization"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.SauceDemo.testCases.CheckoutPageTest -->
+    </classes>
+  </test> <!-- SauceDemoEcommerceTest(failed) -->
+</suite> <!-- Failed suite [SauceDemoEcommerceSuite] -->

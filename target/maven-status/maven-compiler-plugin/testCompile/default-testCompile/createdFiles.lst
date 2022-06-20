@@ -1,0 +1,15 @@
+com\SauceDemo\testCases\OrderCompletePageTest.class
+com\SauceDemo\testCases\LoginPageDDT.class
+com\SauceDemo\pageObjects\AddToCartPage.class
+com\SauceDemo\pageObjects\HomePage.class
+com\SauceDemo\testCases\ProductsPageTest.class
+com\SauceDemo\pageObjects\CheckoutPage.class
+com\SauceDemo\pageObjects\OrderCompletePage.class
+com\SauceDemo\pageObjects\ProductsPage.class
+com\SauceDemo\utilities\Reporting.class
+com\SauceDemo\utilities\XLUtils.class
+com\SauceDemo\testCases\CheckoutPageTest.class
+com\SauceDemo\testCases\HomePageTest.class
+com\SauceDemo\testCases\BaseClass.class
+com\SauceDemo\testCases\AddToCartPageTest.class
+com\SauceDemo\utilities\Utils.class

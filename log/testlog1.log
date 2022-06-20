@@ -1,0 +1,124 @@
+2022-06-17 16:28:42,300 [main] INFO SauceDemoEcommerce - Chrome Browser Launched
+2022-06-17 16:28:42,666 [main] INFO SauceDemoEcommerce - URL Launched
+2022-06-17 16:28:44,823 [main] INFO SauceDemoEcommerce - Validated Order Complete Page URL
+2022-06-17 16:28:45,715 [main] INFO SauceDemoEcommerce - Browser Closed
+2022-06-17 16:28:47,885 [main] INFO SauceDemoEcommerce - Chrome Browser Launched
+2022-06-17 16:28:48,196 [main] INFO SauceDemoEcommerce - URL Launched
+2022-06-17 16:28:49,933 [main] INFO SauceDemoEcommerce - Validated Order Complete Page Text
+2022-06-17 16:28:50,658 [main] INFO SauceDemoEcommerce - Browser Closed
+2022-06-17 16:28:52,281 [main] INFO SauceDemoEcommerce - Chrome Browser Launched
+2022-06-17 16:28:52,583 [main] INFO SauceDemoEcommerce - URL Launched
+2022-06-17 16:28:54,463 [main] INFO SauceDemoEcommerce - Clicked On Back Home Btn on Order Complete Page
+2022-06-17 16:28:55,198 [main] INFO SauceDemoEcommerce - Browser Closed
+2022-06-17 16:30:04,102 [main] INFO SauceDemoEcommerce - Chrome Browser Launched
+2022-06-17 16:30:04,421 [main] INFO SauceDemoEcommerce - URL Launched
+2022-06-17 16:30:06,642 [main] INFO SauceDemoEcommerce - Validated Order Complete Page URL
+2022-06-17 16:30:07,374 [main] INFO SauceDemoEcommerce - Browser Closed
+2022-06-17 16:30:09,045 [main] INFO SauceDemoEcommerce - Chrome Browser Launched
+2022-06-17 16:30:09,453 [main] INFO SauceDemoEcommerce - URL Launched
+2022-06-17 16:30:11,265 [main] INFO SauceDemoEcommerce - Validated Order Complete Page Text
+2022-06-17 16:30:12,034 [main] INFO SauceDemoEcommerce - Browser Closed
+2022-06-17 16:30:13,785 [main] INFO SauceDemoEcommerce - Chrome Browser Launched
+2022-06-17 16:30:14,034 [main] INFO SauceDemoEcommerce - URL Launched
+2022-06-17 16:30:15,978 [main] INFO SauceDemoEcommerce - Clicked On Back Home Btn on Order Complete Page
+2022-06-17 16:30:16,747 [main] INFO SauceDemoEcommerce - Browser Closed
+2022-06-17 19:41:12,000 [main] INFO SauceDemoEcommerce - Chrome Browser Launched
+2022-06-17 19:41:12,239 [main] INFO SauceDemoEcommerce - URL Launched
+2022-06-17 19:41:12,812 [main] INFO SauceDemoEcommerce - Login Done Successfully
+2022-06-17 19:41:24,931 [main] INFO SauceDemoEcommerce - Login Passed
+2022-06-17 19:41:25,643 [main] INFO SauceDemoEcommerce - Browser Closed
+2022-06-17 19:41:27,130 [main] INFO SauceDemoEcommerce - Chrome Browser Launched
+2022-06-17 19:41:27,379 [main] INFO SauceDemoEcommerce - URL Launched
+2022-06-17 19:41:27,773 [main] INFO SauceDemoEcommerce - Login Done Successfully
+2022-06-17 19:41:30,563 [main] INFO SauceDemoEcommerce - Browser Closed
+2022-06-17 19:47:35,276 [main] INFO SauceDemoEcommerce - Chrome Browser Launched
+2022-06-17 19:47:36,200 [main] INFO SauceDemoEcommerce - URL Launched
+2022-06-17 19:47:36,782 [main] INFO SauceDemoEcommerce - Login Done Successfully
+2022-06-17 19:47:48,852 [main] INFO SauceDemoEcommerce - Login Passed
+2022-06-17 19:47:49,572 [main] INFO SauceDemoEcommerce - Browser Closed
+2022-06-17 19:47:51,047 [main] INFO SauceDemoEcommerce - Chrome Browser Launched
+2022-06-17 19:47:51,294 [main] INFO SauceDemoEcommerce - URL Launched
+2022-06-17 19:47:51,708 [main] INFO SauceDemoEcommerce - Login Done Successfully
+2022-06-17 19:47:54,485 [main] INFO SauceDemoEcommerce - Browser Closed
+2022-06-20 11:55:49,330 [main] INFO SauceDemoEcommerce - Chrome Browser Launched
+2022-06-20 11:55:49,668 [main] INFO SauceDemoEcommerce - URL Launched
+2022-06-20 11:55:52,191 [main] INFO SauceDemoEcommerce - Validated Order Complete Page URL
+2022-06-20 11:55:53,068 [main] INFO SauceDemoEcommerce - Browser Closed
+2022-06-20 11:55:55,020 [main] INFO SauceDemoEcommerce - Chrome Browser Launched
+2022-06-20 11:55:55,362 [main] INFO SauceDemoEcommerce - URL Launched
+2022-06-20 11:55:57,465 [main] INFO SauceDemoEcommerce - Validated Order Complete Page Text
+2022-06-20 11:55:58,244 [main] INFO SauceDemoEcommerce - Browser Closed
+2022-06-20 11:56:00,162 [main] INFO SauceDemoEcommerce - Chrome Browser Launched
+2022-06-20 11:56:00,487 [main] INFO SauceDemoEcommerce - URL Launched
+2022-06-20 11:56:02,671 [main] INFO SauceDemoEcommerce - Clicked On Back Home Btn on Order Complete Page
+2022-06-20 11:56:03,432 [main] INFO SauceDemoEcommerce - Browser Closed
+2022-06-20 11:59:32,601 [main] INFO SauceDemoEcommerce - Chrome Browser Launched
+2022-06-20 11:59:32,901 [main] INFO SauceDemoEcommerce - URL Launched
+2022-06-20 11:59:34,645 [main] INFO SauceDemoEcommerce - Validated Order Complete Page URL
+2022-06-20 11:59:35,373 [main] INFO SauceDemoEcommerce - Browser Closed
+2022-06-20 11:59:36,820 [main] INFO SauceDemoEcommerce - Chrome Browser Launched
+2022-06-20 11:59:37,071 [main] INFO SauceDemoEcommerce - URL Launched
+2022-06-20 11:59:38,946 [main] INFO SauceDemoEcommerce - Validated Order Complete Page Text
+2022-06-20 11:59:39,692 [main] INFO SauceDemoEcommerce - Browser Closed
+2022-06-20 11:59:41,395 [main] INFO SauceDemoEcommerce - Chrome Browser Launched
+2022-06-20 11:59:41,715 [main] INFO SauceDemoEcommerce - URL Launched
+2022-06-20 11:59:43,977 [main] INFO SauceDemoEcommerce - Clicked On Back Home Btn on Order Complete Page
+2022-06-20 11:59:44,731 [main] INFO SauceDemoEcommerce - Browser Closed
+2022-06-20 12:05:00,536 [main] INFO SauceDemoEcommerce - Chrome Browser Launched
+2022-06-20 12:05:00,766 [main] INFO SauceDemoEcommerce - URL Launched
+2022-06-20 12:05:01,718 [main] INFO SauceDemoEcommerce - Validated Checkout Page URL
+2022-06-20 12:05:02,454 [main] INFO SauceDemoEcommerce - Browser Closed
+2022-06-20 12:05:04,296 [main] INFO SauceDemoEcommerce - Chrome Browser Launched
+2022-06-20 12:05:04,633 [main] INFO SauceDemoEcommerce - URL Launched
+2022-06-20 12:05:06,571 [main] INFO SauceDemoEcommerce - Added Checkout Details on Checkout Page
+2022-06-20 12:05:07,342 [main] INFO SauceDemoEcommerce - Browser Closed
+2022-06-20 12:05:09,194 [main] INFO SauceDemoEcommerce - Chrome Browser Launched
+2022-06-20 12:05:09,500 [main] INFO SauceDemoEcommerce - URL Launched
+2022-06-20 12:05:12,495 [main] INFO SauceDemoEcommerce - Browser Closed
+2022-06-20 12:09:21,701 [main] INFO SauceDemoEcommerce - Chrome Browser Launched
+2022-06-20 12:09:21,931 [main] INFO SauceDemoEcommerce - URL Launched
+2022-06-20 12:09:23,856 [main] INFO SauceDemoEcommerce - Browser Closed
+2022-06-20 12:09:25,587 [main] INFO SauceDemoEcommerce - Chrome Browser Launched
+2022-06-20 12:09:25,942 [main] INFO SauceDemoEcommerce - URL Launched
+2022-06-20 12:09:27,909 [main] INFO SauceDemoEcommerce - Added Checkout Details on Checkout Page
+2022-06-20 12:09:28,699 [main] INFO SauceDemoEcommerce - Browser Closed
+2022-06-20 12:09:30,829 [main] INFO SauceDemoEcommerce - Chrome Browser Launched
+2022-06-20 12:09:31,271 [main] INFO SauceDemoEcommerce - URL Launched
+2022-06-20 12:09:33,564 [main] INFO SauceDemoEcommerce - Validated Checkout Details on Checkout Page
+2022-06-20 12:09:34,334 [main] INFO SauceDemoEcommerce - Browser Closed
+2022-06-20 13:35:05,946 [main] INFO SauceDemoEcommerce - Chrome Browser Launched
+2022-06-20 13:35:06,231 [main] INFO SauceDemoEcommerce - URL Launched
+2022-06-20 13:35:08,080 [main] INFO SauceDemoEcommerce - Validated Order Complete Page URL
+2022-06-20 13:35:08,908 [main] INFO SauceDemoEcommerce - Browser Closed
+2022-06-20 13:35:10,522 [main] INFO SauceDemoEcommerce - Chrome Browser Launched
+2022-06-20 13:35:10,907 [main] INFO SauceDemoEcommerce - URL Launched
+2022-06-20 13:35:12,743 [main] INFO SauceDemoEcommerce - Validated Order Complete Page Text
+2022-06-20 13:35:13,466 [main] INFO SauceDemoEcommerce - Browser Closed
+2022-06-20 13:35:15,038 [main] INFO SauceDemoEcommerce - Chrome Browser Launched
+2022-06-20 13:35:15,283 [main] INFO SauceDemoEcommerce - URL Launched
+2022-06-20 13:35:17,432 [main] INFO SauceDemoEcommerce - Clicked On Back Home Btn on Order Complete Page
+2022-06-20 13:35:18,116 [main] INFO SauceDemoEcommerce - Browser Closed
+2022-06-20 13:38:26,670 [main] INFO SauceDemoEcommerce - Chrome Browser Launched
+2022-06-20 13:38:26,967 [main] INFO SauceDemoEcommerce - URL Launched
+2022-06-20 13:38:28,808 [main] INFO SauceDemoEcommerce - Validated Order Complete Page URL
+2022-06-20 13:38:29,535 [main] INFO SauceDemoEcommerce - Browser Closed
+2022-06-20 13:38:31,160 [main] INFO SauceDemoEcommerce - Chrome Browser Launched
+2022-06-20 13:38:31,390 [main] INFO SauceDemoEcommerce - URL Launched
+2022-06-20 13:38:33,096 [main] INFO SauceDemoEcommerce - Validated Order Complete Page Text
+2022-06-20 13:38:33,817 [main] INFO SauceDemoEcommerce - Browser Closed
+2022-06-20 13:38:35,341 [main] INFO SauceDemoEcommerce - Chrome Browser Launched
+2022-06-20 13:38:35,576 [main] INFO SauceDemoEcommerce - URL Launched
+2022-06-20 13:38:37,233 [main] INFO SauceDemoEcommerce - Clicked On Back Home Btn on Order Complete Page
+2022-06-20 13:38:37,959 [main] INFO SauceDemoEcommerce - Browser Closed
+2022-06-20 13:39:43,110 [main] INFO SauceDemoEcommerce - Chrome Browser Launched
+2022-06-20 13:39:43,435 [main] INFO SauceDemoEcommerce - URL Launched
+2022-06-20 13:39:46,114 [main] INFO SauceDemoEcommerce - Validated Order Complete Page URL
+2022-06-20 13:39:46,878 [main] INFO SauceDemoEcommerce - Browser Closed
+2022-06-20 13:39:48,614 [main] INFO SauceDemoEcommerce - Chrome Browser Launched
+2022-06-20 13:39:49,407 [main] INFO SauceDemoEcommerce - URL Launched
+2022-06-20 13:39:51,383 [main] INFO SauceDemoEcommerce - Validated Order Complete Page Text
+2022-06-20 13:39:52,115 [main] INFO SauceDemoEcommerce - Browser Closed
+2022-06-20 13:39:53,878 [main] INFO SauceDemoEcommerce - Chrome Browser Launched
+2022-06-20 13:39:54,192 [main] INFO SauceDemoEcommerce - URL Launched
+2022-06-20 13:39:56,351 [main] INFO SauceDemoEcommerce - Clicked On Back Home Btn on Order Complete Page
+2022-06-20 13:39:57,113 [main] INFO SauceDemoEcommerce - Browser Closed
